@@ -31,7 +31,7 @@ Berikut adalah dokumentasi kehadiran selama mengikuti rangkaian sesi Lokakarya P
 <p align="center">
   <img src="assets/dokumentasi-workshop.jpg" alt="Dokumentasi Workshop Hari 1 EXPECTIK 2026" width="600"/>
   <br>
-  <em>Gambar: Dokumentasi kegiatan Lokakarya Proyek Hari 1 EXPECTIK 2026 di ruangan seminar.</em>
+  <em>Gambar: Dokumentasi kegiatan Lokakarya Proyek Hari 1 EXPECTIK 2026 di ruangan.</em>
 </p>
 
 ---
