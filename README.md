@@ -6,6 +6,7 @@
 ## 📌 Informasi Peserta
 - **Nama Lengkap:** Delvin Athallah Fassah
 - **Kelompok:** FC27
+- **Program Study:** Teknik Informatika
 - **Tautan Repositori:** [Hari-1-FC27-Delvin-Athallah-Fassah](https://github.com/DelvinAthallah15/Hari-1-FC27-Delvin-Athallah-Fassah)
 - **Kegiatan:** Lokakarya Proyek Hari 1 (EXPECTIK 2026)
 
